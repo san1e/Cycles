@@ -6,7 +6,12 @@ namespace Привiтики
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int a = Convert.ToInt32(Console.ReadLine());
+            
+            for ( int i = 1 ; i <= a; i++ )
+            {
+                Console.WriteLine("Hello!");
+            }
         }
     }
 }
