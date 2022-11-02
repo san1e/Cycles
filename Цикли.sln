@@ -5,9 +5,17 @@ VisualStudioVersion = 16.0.32901.82
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Привiтики", "Привiтики\Привiтики.csproj", "{58330F09-1F45-4126-A072-E5F75F3DB4C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Кiлькiсть непарних цифр", "Кiлькiсть непарних цифр\Кiлькiсть непарних цифр.csproj", "{23E0DFDE-D566-424D-AA96-F0DB76C79F35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Кiлькiсть непарних цифр", "Кiлькiсть непарних цифр\Кiлькiсть непарних цифр.csproj", "{23E0DFDE-D566-424D-AA96-F0DB76C79F35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сума цифр двiйкового подання", "Сума цифр двiйкового подання\Сума цифр двiйкового подання.csproj", "{5C6399C9-90B6-4141-8378-80D337FBC5B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Сума цифр двiйкового подання", "Сума цифр двiйкового подання\Сума цифр двiйкового подання.csproj", "{5C6399C9-90B6-4141-8378-80D337FBC5B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Степiнь двiйки", "Степiнь двiйки\Степiнь двiйки.csproj", "{FEB99A19-F91B-4B6E-8DD8-B79F486E0E37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Банк", "Банк\Банк.csproj", "{6B9E8334-53FB-48D4-9C0F-1592ACF6EB12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Довжина послiдовностi", "Довжина послiдовностi\Довжина послiдовностi.csproj", "{3EC67023-DC44-4AEF-99CB-83C68E006F61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Найменший дiльник", "Найменший дiльник\Найменший дiльник.csproj", "{D487DE9B-7F5D-4C7C-9249-5263C67D2C15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +35,22 @@ Global
 		{5C6399C9-90B6-4141-8378-80D337FBC5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C6399C9-90B6-4141-8378-80D337FBC5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C6399C9-90B6-4141-8378-80D337FBC5B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEB99A19-F91B-4B6E-8DD8-B79F486E0E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB99A19-F91B-4B6E-8DD8-B79F486E0E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB99A19-F91B-4B6E-8DD8-B79F486E0E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB99A19-F91B-4B6E-8DD8-B79F486E0E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B9E8334-53FB-48D4-9C0F-1592ACF6EB12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B9E8334-53FB-48D4-9C0F-1592ACF6EB12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B9E8334-53FB-48D4-9C0F-1592ACF6EB12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B9E8334-53FB-48D4-9C0F-1592ACF6EB12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EC67023-DC44-4AEF-99CB-83C68E006F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC67023-DC44-4AEF-99CB-83C68E006F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC67023-DC44-4AEF-99CB-83C68E006F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC67023-DC44-4AEF-99CB-83C68E006F61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D487DE9B-7F5D-4C7C-9249-5263C67D2C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D487DE9B-7F5D-4C7C-9249-5263C67D2C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D487DE9B-7F5D-4C7C-9249-5263C67D2C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D487DE9B-7F5D-4C7C-9249-5263C67D2C15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

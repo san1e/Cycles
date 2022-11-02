@@ -6,17 +6,19 @@ namespace Сума_цифр_двiйкового_подання
     {
         static void Main(string[] args)
         {
+            int result = 0;
             int num = Convert.ToInt32(Console.ReadLine());
-            string num1 = Convert.ToString(num,2);
-            int num2 = Convert.ToInt32(num1);
-            Console.WriteLine(num2);
-            int sum = 0;
-            while (num2 > 0)
+            
+            while (true)
             {
-                sum = sum + num2 % 10;
-                num2 = num2 / 10;
+                result += num % 2; 
+                num = num / 2;
+                if (num == 0)
+                {
+                    break;
+                }
             }
-            Console.WriteLine(sum);
+            Console.WriteLine(result);
         }
     }
 }
