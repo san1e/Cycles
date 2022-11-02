@@ -17,6 +17,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Довжина послiд�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Найменший дiльник", "Найменший дiльник\Найменший дiльник.csproj", "{D487DE9B-7F5D-4C7C-9249-5263C67D2C15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сума послiдовностi", "Сума послiдовностi\Сума послiдовностi.csproj", "{9FC0D21B-7658-494B-A2CE-72BA846AF66B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Середнє арифметичне", "Середнє арифметичне\Середнє арифметичне.csproj", "{0299E805-F147-4692-A352-F8F39D1FF19C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Кiлькiсть непарних елементiв", "Кiлькiсть непарних елементiв\Кiлькiсть непарних елементiв.csproj", "{84724DD5-C711-4CB5-8CC0-5E8EB30A3675}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +57,18 @@ Global
 		{D487DE9B-7F5D-4C7C-9249-5263C67D2C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D487DE9B-7F5D-4C7C-9249-5263C67D2C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D487DE9B-7F5D-4C7C-9249-5263C67D2C15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC0D21B-7658-494B-A2CE-72BA846AF66B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC0D21B-7658-494B-A2CE-72BA846AF66B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC0D21B-7658-494B-A2CE-72BA846AF66B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC0D21B-7658-494B-A2CE-72BA846AF66B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0299E805-F147-4692-A352-F8F39D1FF19C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0299E805-F147-4692-A352-F8F39D1FF19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0299E805-F147-4692-A352-F8F39D1FF19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0299E805-F147-4692-A352-F8F39D1FF19C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84724DD5-C711-4CB5-8CC0-5E8EB30A3675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84724DD5-C711-4CB5-8CC0-5E8EB30A3675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84724DD5-C711-4CB5-8CC0-5E8EB30A3675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84724DD5-C711-4CB5-8CC0-5E8EB30A3675}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
