@@ -6,13 +6,13 @@ namespace Степiнь_двiйки
     {
         static void Main(string[] args)
         {
-            int num = Convert.ToInt32(Console.ReadLine());
-            int pow = 0;
-            while (num > Math.Pow(2, pow))
+            uint N = Convert.ToUInt32(Console.ReadLine());
+            uint i = 0;
+            while (Math.Pow(2, i) <= N)
             {
-                pow++;
-            }
-            Console.WriteLine(pow);
+                Console.Write(" " + Math.Pow(2, i));
+                i++;
+            }  
         }
     }
 }

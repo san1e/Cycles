@@ -7,13 +7,13 @@ namespace Марiчка_та_цукерки
         static void Main(string[] args)
         {
             string[] data = Console.ReadLine().Trim().Split();
-            int A = Convert.ToInt32(data[0]);
+            double A = Convert.ToDouble(data[0]);
             double B = Convert.ToDouble(data[1]);
             double hrn = A;
             double cop = B / 100;
             double sum =hrn + cop;
-            int count = 0;
-            int kg = 1;
+            double count = 0;
+            double kg = 1;
             double sum1 = 0;
             Console.WriteLine($" {kg} kg: {sum:f2} UAH");
             while (count <= 7)
