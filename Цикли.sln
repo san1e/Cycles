@@ -9,19 +9,43 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Кiлькiсть непар
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Сума цифр двiйкового подання", "Сума цифр двiйкового подання\Сума цифр двiйкового подання.csproj", "{5C6399C9-90B6-4141-8378-80D337FBC5B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Степiнь двiйки", "Степiнь двiйки\Степiнь двiйки.csproj", "{FEB99A19-F91B-4B6E-8DD8-B79F486E0E37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Степiнь двiйки", "Степiнь двiйки\Степiнь двiйки.csproj", "{FEB99A19-F91B-4B6E-8DD8-B79F486E0E37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Банк", "Банк\Банк.csproj", "{6B9E8334-53FB-48D4-9C0F-1592ACF6EB12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Банк", "Банк\Банк.csproj", "{6B9E8334-53FB-48D4-9C0F-1592ACF6EB12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Довжина послiдовностi", "Довжина послiдовностi\Довжина послiдовностi.csproj", "{3EC67023-DC44-4AEF-99CB-83C68E006F61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Довжина послiдовностi", "Довжина послiдовностi\Довжина послiдовностi.csproj", "{3EC67023-DC44-4AEF-99CB-83C68E006F61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Найменший дiльник", "Найменший дiльник\Найменший дiльник.csproj", "{D487DE9B-7F5D-4C7C-9249-5263C67D2C15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Найменший дiльник", "Найменший дiльник\Найменший дiльник.csproj", "{D487DE9B-7F5D-4C7C-9249-5263C67D2C15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сума послiдовностi", "Сума послiдовностi\Сума послiдовностi.csproj", "{9FC0D21B-7658-494B-A2CE-72BA846AF66B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Сума послiдовностi", "Сума послiдовностi\Сума послiдовностi.csproj", "{9FC0D21B-7658-494B-A2CE-72BA846AF66B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Середнє арифметичне", "Середнє арифметичне\Середнє арифметичне.csproj", "{0299E805-F147-4692-A352-F8F39D1FF19C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Середнє арифметичне", "Середнє арифметичне\Середнє арифметичне.csproj", "{0299E805-F147-4692-A352-F8F39D1FF19C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Кiлькiсть непарних елементiв", "Кiлькiсть непарних елементiв\Кiлькiсть непарних елементiв.csproj", "{84724DD5-C711-4CB5-8CC0-5E8EB30A3675}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Кiлькiсть непарних елементiв", "Кiлькiсть непарних елементiв\Кiлькiсть непарних елементiв.csproj", "{84724DD5-C711-4CB5-8CC0-5E8EB30A3675}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Бiльшi за попереднiй", "Бiльшi за попереднiй\Бiльшi за попереднiй.csproj", "{1CBE09BD-A361-4F0A-B25B-35E1956AD24F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Неспадна пiдпослiдовнiсть", "Неспадна пiдпослiдовнiсть\Неспадна пiдпослiдовнiсть.csproj", "{C75B9A6F-4857-4F55-83C2-DDC2998480D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Максимальний елемент", "Максимальний елемент\Максимальний елемент.csproj", "{8B520478-FE5F-4444-944B-93B20485A12A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Число у вертикальнiй рамцi", "Число у вертикальнiй рамцi\Число у вертикальнiй рамцi.csproj", "{2E981244-67D2-44D3-9355-53F7FF6BA8E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Число навпаки", "Число навпаки\Число навпаки.csproj", "{2105795C-E5F3-483C-892F-B3CCC5FB7200}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Повнi квадрати", "Повнi квадрати\Повнi квадрати.csproj", "{EFE69A6F-5B1E-4F7E-931D-167124ABCB07}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Важливе число", "Важливе число\Важливе число.csproj", "{D1D8CB90-62ED-4E8A-AE10-2519C6DA9C6F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Дуже важливi числа", "Дуже важливi числа\Дуже важливi числа.csproj", "{CB365DE6-AF99-4BAC-A3E7-06A31B9EDCAC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Число в горизонтальнiй рамцi", "Число в горизонтальнiй рамцi\Число в горизонтальнiй рамцi.csproj", "{24A882F7-981A-49DA-8E6C-19300FDADFB5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Марiчка та цукерки", "Марiчка та цукерки\Марiчка та цукерки.csproj", "{B3CA62C1-28E5-4E3E-AAC0-4CEFE10AB602}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Марiчка та квадрати", "Марiчка та квадрати\Марiчка та квадрати.csproj", "{CFE17AB9-45B4-4C98-9DBF-CF52811F95E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Марічка та дробові числа", "Марічка та дробові числа\Марічка та дробові числа.csproj", "{32FEABFF-2E36-4B58-82C3-3B6E3F7BEEAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +93,54 @@ Global
 		{84724DD5-C711-4CB5-8CC0-5E8EB30A3675}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84724DD5-C711-4CB5-8CC0-5E8EB30A3675}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84724DD5-C711-4CB5-8CC0-5E8EB30A3675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CBE09BD-A361-4F0A-B25B-35E1956AD24F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CBE09BD-A361-4F0A-B25B-35E1956AD24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CBE09BD-A361-4F0A-B25B-35E1956AD24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CBE09BD-A361-4F0A-B25B-35E1956AD24F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C75B9A6F-4857-4F55-83C2-DDC2998480D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75B9A6F-4857-4F55-83C2-DDC2998480D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75B9A6F-4857-4F55-83C2-DDC2998480D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75B9A6F-4857-4F55-83C2-DDC2998480D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B520478-FE5F-4444-944B-93B20485A12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B520478-FE5F-4444-944B-93B20485A12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B520478-FE5F-4444-944B-93B20485A12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B520478-FE5F-4444-944B-93B20485A12A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E981244-67D2-44D3-9355-53F7FF6BA8E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E981244-67D2-44D3-9355-53F7FF6BA8E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E981244-67D2-44D3-9355-53F7FF6BA8E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E981244-67D2-44D3-9355-53F7FF6BA8E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2105795C-E5F3-483C-892F-B3CCC5FB7200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2105795C-E5F3-483C-892F-B3CCC5FB7200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2105795C-E5F3-483C-892F-B3CCC5FB7200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2105795C-E5F3-483C-892F-B3CCC5FB7200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE69A6F-5B1E-4F7E-931D-167124ABCB07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE69A6F-5B1E-4F7E-931D-167124ABCB07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE69A6F-5B1E-4F7E-931D-167124ABCB07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE69A6F-5B1E-4F7E-931D-167124ABCB07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1D8CB90-62ED-4E8A-AE10-2519C6DA9C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D8CB90-62ED-4E8A-AE10-2519C6DA9C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1D8CB90-62ED-4E8A-AE10-2519C6DA9C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1D8CB90-62ED-4E8A-AE10-2519C6DA9C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB365DE6-AF99-4BAC-A3E7-06A31B9EDCAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB365DE6-AF99-4BAC-A3E7-06A31B9EDCAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB365DE6-AF99-4BAC-A3E7-06A31B9EDCAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB365DE6-AF99-4BAC-A3E7-06A31B9EDCAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24A882F7-981A-49DA-8E6C-19300FDADFB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A882F7-981A-49DA-8E6C-19300FDADFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A882F7-981A-49DA-8E6C-19300FDADFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A882F7-981A-49DA-8E6C-19300FDADFB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3CA62C1-28E5-4E3E-AAC0-4CEFE10AB602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3CA62C1-28E5-4E3E-AAC0-4CEFE10AB602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3CA62C1-28E5-4E3E-AAC0-4CEFE10AB602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3CA62C1-28E5-4E3E-AAC0-4CEFE10AB602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFE17AB9-45B4-4C98-9DBF-CF52811F95E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE17AB9-45B4-4C98-9DBF-CF52811F95E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE17AB9-45B4-4C98-9DBF-CF52811F95E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE17AB9-45B4-4C98-9DBF-CF52811F95E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32FEABFF-2E36-4B58-82C3-3B6E3F7BEEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FEABFF-2E36-4B58-82C3-3B6E3F7BEEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FEABFF-2E36-4B58-82C3-3B6E3F7BEEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FEABFF-2E36-4B58-82C3-3B6E3F7BEEAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
